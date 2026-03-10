@@ -203,21 +203,30 @@ cp ~/.openclaw/config.json ~/.openclaw/config.json.backup
 
 ## 📚 参考资源
 
-### 官方资源
+### 🌐 快速访问
+- [**所有官网链接汇总**](./docs/links.md) ⭐ 推荐收藏
 - [OpenClaw 官方文档](https://docs.openclaw.ai/)
 - [OpenClaw GitHub](https://github.com/openclaw/openclaw)
 - [OpenClaw Discord](https://discord.com/invite/clawd)
 
-### 模型提供商
-- [智谱 AI](https://open.bigmodel.cn/) - 最便宜
-- [阿里云百炼](https://bailian.console.aliyun.com/) - 企业级
-- [DeepSeek](https://www.deepseek.com/) - 代码能力强
+### 💰 模型提供商
+| 模型 | 官网 | 价格 | 特点 |
+|------|------|------|------|
+| **智谱 AI** | [open.bigmodel.cn](https://open.bigmodel.cn/) | ¥0.1/1M | 最便宜 ⭐⭐⭐⭐⭐ |
+| **阿里云** | [bailian.console.aliyun.com](https://bailian.console.aliyun.com/) | ¥2/1M | 企业级 ⭐⭐⭐⭐ |
+| **DeepSeek** | [deepseek.com](https://www.deepseek.com/) | ¥1/1M | 代码强 ⭐⭐⭐⭐ |
 
-### 机器人平台
-- [飞书开放平台](https://open.feishu.cn/) - 推荐
-- [Telegram Bot API](https://core.telegram.org/bots/api) - 最简单
-- [企业微信](https://work.weixin.qq.com/) - 企业用户
-- [钉钉开放平台](https://open.dingtalk.com/) - 阿里生态
+**详细对比**: [查看模型配置](./models/README.md)
+
+### 🤖 机器人平台
+| 平台 | 官网 | 难度 | 适合 |
+|------|------|------|------|
+| **飞书** | [open.feishu.cn](https://open.feishu.cn/) | ⭐⭐ | 个人/企业 ⭐⭐⭐⭐⭐ |
+| **Telegram** | [telegram.org](https://telegram.org/) | ⭐ | 个人 ⭐⭐⭐⭐⭐ |
+| **企业微信** | [work.weixin.qq.com](https://work.weixin.qq.com/) | ⭐⭐ | 企业 ⭐⭐⭐⭐ |
+| **钉钉** | [open.dingtalk.com](https://open.dingtalk.com/) | ⭐⭐⭐ | 企业 ⭐⭐⭐⭐ |
+
+**详细配置**: [查看渠道配置](./channels/README.md)
 
 ---
 
